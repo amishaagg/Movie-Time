@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie Time!</string>
+    <string name="most_popular_movies">Most Popular Movies</string>
+    <string name="top_250_tv_shows">Top 250 TV Shows</string>
+    <string name="choose_what_you_want_to_see_today">Choose What You Want to See Today?</string>
+    <string name="top_250_movies">Top 250 Movies</string>
+    <string name="most_popular_shows">Most popular shows</string>
+</resources>
